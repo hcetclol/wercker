@@ -38,4 +38,4 @@ push-docker:
         ports: "5000"        
         registry: https://registry.hub.docker.com/v2
         tags: latest
-        cmd: “/pipeline/source/wercker-example”
+        cmd: "/pipeline/source/wercker-example"
